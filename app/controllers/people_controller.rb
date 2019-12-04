@@ -27,5 +27,5 @@ def new
       :address_type
     ]
   )
-end
+
 end
